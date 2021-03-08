@@ -9,7 +9,7 @@
 - [Request Help](Request-Help.html)
 - [Search App for products](Search-App-For-Products.html) 
 - [Verify Age](Verify-Age.html)
-
+- [Logout](Logout.html)
 
 
 You can use the [editor on GitHub](https://github.com/frankmontoyanm/Grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
