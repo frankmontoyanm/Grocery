@@ -7,10 +7,10 @@
 - [Register for Account](Register-For-Account.html)
 - [Pay for Items in Cart](Pay-For-Items-In-Cart.html) 
 - [Request Help](Request-Help.html)
-- [Search App for products](Search-App-For-Products.html) 
+- [Shop For Groceries](Search-App-For-Products.html) 
 - [Verify Age](Verify-Age.html)
 - [Logout](Logout.html)
-- [Loging](login.html)
+- [Login](login.html)
 
 
 You can use the [editor on GitHub](https://github.com/frankmontoyanm/Grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
