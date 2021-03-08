@@ -11,6 +11,7 @@
 - [Verify Age](Verify-Age.html)
 - [Logout](Logout.html)
 - [Login](Login.html)
+- [Logged Out](Logged-Out.html)
 
 
 You can use the [editor on GitHub](https://github.com/frankmontoyanm/Grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
