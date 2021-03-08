@@ -1,5 +1,15 @@
-## The Frankmontoyanm Organization Home Page
-Shop For Groceries
+## Grocery Home
+
+- [Bag Groceries](Bag-Groceries.html)
+- [Kart-Groceries](Kart-Groceries.html)
+- [Make Complaint](Make-Complaint.html)
+- [Pack Groceries](Pack-Groceries.html)
+- [Register for Account](Register-For-Account.html)
+- [Pay for Items in Cart](Pay-For-Items-In-Cart.html) 
+- [Request Help](Request-Help.html)
+- [Search App for products](Search-App-For-Products.html) 
+- [Verify Age](Verify-Age.html)
+
 
 You can use the [editor on GitHub](https://github.com/frankmontoyanm/Grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
