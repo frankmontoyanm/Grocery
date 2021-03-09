@@ -7,7 +7,6 @@
 - [Register for Account](Register-For-Account.html)
 - [Pay for Items in Cart](Pay-For-Items-In-Cart.html) 
 - [Request Help](Request-Help.html)
-- [Shop For Groceries](Search-App-For-Products.html) 
 - [Verify Age](Verify-Age.html)
 - [Logout](Logout.html)
 - [Login](Login.html)
